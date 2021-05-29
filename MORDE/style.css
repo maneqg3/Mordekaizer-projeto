@@ -53,5 +53,8 @@ h1{
   font-size: 50px;
 }
 img{
-  cursor: pointer;
+  cursor: pointer;  
+}
+@-ms-viewport {
+  width: device-width ;
 }

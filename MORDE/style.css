@@ -19,6 +19,14 @@ body {
   color: #5ecaba;
  
 }
+.anim{
+  width: 300px;
+  transition: transform .2s;
+  margin-right:10px;
+}
+.anim:hover{
+  transform: scale(1.1);
+}
 #play-pause-button{
   color: #0b141b;
   font-size: 45px;
